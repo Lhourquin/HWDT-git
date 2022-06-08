@@ -1,0 +1,76 @@
+/*=============== GOOGLE FONTS ===============*/
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3rem;
+  /*========== Colors ==========*/
+  --hue: 45;
+  --sat: 98%;
+  --first-color: ;
+  --first-color-light: ;
+  --first-color-lighten: ;
+  --first-color-alt: ;
+  --title-color: ;
+  --text-color: ;
+  --text-color-light: ;
+  --body-color: ;
+  --container-color: ;
+  --scroll-bar-color: ;
+  --scroll-thumb-color: ;
+  /*========== Font and typography ==========*/
+  --body-font: ;
+  --biggest-font-size: ;
+  --h2-font-size: ;
+  --h3-font-size: ;
+  --normal-font-size: ;
+  --small-font-size: ;
+  --smaller-font-size: ;
+  /*========== Font weight ==========*/
+  --font-semi-bold: ;
+  --font-bold: ;
+  /*========== Margenes ==========*/
+  --mb-0-5: ;
+  --mb-0-75: ;
+  --mb-1: ;
+  --mb-1-5: ;
+  --mb-2: ;
+  /*========== z index ==========*/
+  --z-tooltip: ;
+  --z-fixed: ;
+}
+
+@media screen and (min-width: 968px) {
+  :root {
+    --biggest-font-size: ;
+    --h2-font-size: ;
+    --h3-font-size: ;
+    --normal-font-size: ;
+    --small-font-size: ;
+    --smaller-font-size: ;
+  }
+}
+
+/*=============== BASE ===============*/
+/*=============== THEME ===============*/
+/*========== Variables Dark theme ==========*/
+/*========== Button Dark/Light ==========*/
+/*=============== REUSABLE CSS CLASSES ===============*/
+/*=============== LAYOUT ===============*/
+/*=============== HEADER ===============*/
+/*=============== NAV ===============*/
+/* Show menu */
+/* Change background header */
+/*=============== HOME ===============*/
+/*=============== BUTTONS ===============*/
+/*=============== ABOUT ===============*/
+/*=============== SECURITY ===============*/
+/*=============== SERVICES ===============*/
+/*=============== APP ===============*/
+/*=============== CONTACT ===============*/
+/*=============== FOOTER ===============*/
+/*=============== SCROLL UP ===============*/
+/* Show Scroll Up*/
+/*=============== SCROLL BAR ===============*/
+/*=============== MEDIA QUERIES ===============*/
+/* For small devices */
+/* For medium devices */
+/* For large devices */
